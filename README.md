@@ -1,11 +1,12 @@
 Hi, I’m @JariPesonen
 
+My passion is with information security, and have worked in the field for more than 20 years in roles of security (solution/domain/enterprise) architect, QSA, auditor and now as CISO. 
+
 Intention of this collection is to share solutions to some issues I have solved for myself, tested at some point, or otherwise found it 
 useful to share. Hopefully you will find something useful for yourself.
 
 I'm interested about security, automation, computer forensics and home automation and will sanitize and clean up code from my private 
 repositories over time and add here.
-
 
 ### Disclaimer
 All code is published according to mentioned licenses with restrictions specified in the licenses. Any work published here is released in personal capacity and is not endorsed or linked by/to my previous or current employers.
